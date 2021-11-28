@@ -2,7 +2,7 @@ import './App.css';
 import List from './components/List/List';
 import Title from './components/Title/Title';
 import NotFound from './components/NotFound/NotFound';
-import db from './db.json';
+import db from './db/db.json';
 
 function App() {
   const { cars } = db;
