@@ -1,0 +1,25 @@
+{
+        "cars": [
+                {
+                        "type": "pickup",
+                        "speed": 80,
+                        "id": 1
+                },
+                {
+                        "type": "sedan",
+                        "speed": 100,
+                        "id": 2
+                },
+                {
+                        "type": "cabrio",
+                        "speed": 140,
+                        "id": 3
+                },
+                {
+                        "type": "van",
+                        "speed": 60,
+                        "id": 4
+                }
+        ],
+        "drivers": []
+}

@@ -1,0 +1,13 @@
+.container {
+        background-color: purple;
+}
+
+.listOnline {
+        list-style: none;
+        background-color: green;
+}
+
+.listOffline {
+        list-style: none;
+        background-color: red;
+}
